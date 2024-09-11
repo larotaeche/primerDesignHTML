@@ -1,0 +1,10 @@
+Vamos a progresar paso a paso con nuestro primer diseño web.
+En las primeras pruebas solo utilizaremos HTML por lo que se complicará bastante.
+Evidentemente el uso de tablas no es lo adecuado. Más adelande se utilizarán otros elementos y css
+para conseguir un mejor diseño.
+
+
+Etiqueta meta:
+La etiqueta <meta> para mejorar la accesibilidad, seguridad y optimización de un documento HTML5. 
+
+https://talosabogados.com/tipos-de-licencias-creative-commons-diferencias-legales/
